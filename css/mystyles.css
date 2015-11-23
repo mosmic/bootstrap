@@ -62,3 +62,20 @@ body {
 .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
     color: #000;
 }
+
+.carousel {
+    background:#1A237E;
+}
+.carousel .item {
+  height: 300px;
+}
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#reserveModal {
+    color: #000;
+}
+
